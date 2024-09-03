@@ -1,4 +1,4 @@
-# QuickSort Visualizer in iOS
+# 📊✨ QuickSort Visualizer in iOS
 
 Welcome to the **QuickSort Visualizer** project! This iOS application, built using Swift and SwiftUI, provides a dynamic and interactive visualization of the QuickSort algorithm. Designed to help you learn, this tool helps to demystify one of the most efficient sorting algorithms by offering a visual representation of how it works step-by-step.
 
