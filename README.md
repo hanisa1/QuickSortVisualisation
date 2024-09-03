@@ -2,6 +2,10 @@
 
 Welcome to the **QuickSort Visualizer** project! This iOS application, built using Swift and SwiftUI, provides a dynamic and interactive visualization of the QuickSort algorithm. Designed to help you learn, this tool helps to demystify one of the most efficient sorting algorithms by offering a visual representation of how it works step-by-step.
 
+## Demo
+
+https://github.com/user-attachments/assets/7f0635ac-a76d-45eb-8edc-c28d38c8ea26
+
 ## Features
 
 - **Real-Time Visualization**: Watch the QuickSort algorithm in action as it sorts an array of numbers. The app dynamically displays the partitioning and recursive sorting process.
@@ -18,10 +22,6 @@ git clone https://github.com/yourusername/QuickSortVisualizer.git
 cd QuickSortVisualizer
 open QuickSortVisualizer.xcodeproj
 ```
-
-
-## Screenshots
-TBA
 
 ## Requirements
 
